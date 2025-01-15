@@ -1,0 +1,16 @@
+# VS Code directory
+.vscode/
+.mypy_cache/
+data/
+private/
+log/
+.venv/
+.env
+__pycache__/
+.DS_Store
+.python-version
+book_upload/
+chroma.log
+debug_answer.pkl
+programming_DB/
+db.sqlite3
